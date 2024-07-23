@@ -14,7 +14,7 @@
 * He first tries looking through the file for anything suspicious, like another photo or file...
 ![image](https://github.com/user-attachments/assets/a7f4cc2c-1e9c-498a-99a5-3128db340ede)
 
-* After searching enough, he finally lands on an EXE appended to the JPG file, starting with the ubiquitous MZ header
+* After searching enough, he finally lands on an EXE appended to the JPG file, starting with the ubiquitous MZ header:\
 ![image](https://github.com/user-attachments/assets/9a97cdfe-a420-4b7a-9ba0-89883c5d37b4)
 
 * This is how Simon did it:
@@ -80,7 +80,7 @@ def get_P_and_Q(pq):
 * The program is trying to send something to a web server using a POST request...
 
 * We can export any POST objects in HTTP using EXPORT:\
-![image](https://github.com/user-attachments/assets/971e3109-1fb3-4423-bba5-0815e92c98e4)
+![image](https://github.com/user-attachments/assets/971e3109-1fb3-4423-bba5-0815e92c98e4) \
 ![image](https://github.com/user-attachments/assets/78f1417b-9b6c-4fa6-89e3-0aeea95e9dcd)
 
 * The files are missing an extension.
